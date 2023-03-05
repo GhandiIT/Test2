@@ -1,6 +1,6 @@
 print('Hello World')
 
-i = 10
+a = 10
 
-for x in range (i):
+for x in range (a):
     print(x)
